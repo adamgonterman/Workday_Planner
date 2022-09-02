@@ -6,7 +6,7 @@ I created an application that allows the user to schedule events throughout thei
 
 ## Installation
 
-Pull from my public github repository (https://github.com/adamgonterman/Workday_Planner) and clone on your local machine to create a directory that allows you to run the code yourself! You can also access the application at the following URL:  . 
+Pull from my public github repository (https://github.com/adamgonterman/Workday_Planner) and clone on your local machine to create a directory that allows you to run the code yourself! You can also access the application at the following URL: https://adamgonterman.github.io/Workday_Planner/ .  
 
 ## Usage
 
